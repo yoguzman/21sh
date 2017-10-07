@@ -1,0 +1,20 @@
+edition
+
+	-Couper, copier et/ou coller tout ou partie d’une ligne avec la séquence de touches
+	qui vous plaira
+
+	multiligne
+	-Ecrire ET éditer une commande sur plusieurs lignes. Dans ce cas, on apprecierait
+	que ctrl+UP et ctrl+DOWN permettent de passer d’une ligne à l’autre de la
+	commande en restant sur la même colonne ou la colonne la plus appropriée sinon.
+
+token
+	-Gérer complètement les quotes et doubles quotes, même sur plusieurs lignes (hors
+	expansions).
+
+exec 
+	-Le séparateur de commandes “;”
+
+	-Les pipes “|”
+
+	-Les quatre redirections “<”, “>”, “<<” et “>>”
